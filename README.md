@@ -3,7 +3,6 @@
 ### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-ryu-akashi-santana/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabricioAkashi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.fabricioakashi.site/)
 
 
 Sou um desenvolvedor em formação, com muita esforço e vontade de aprender, desenvolvo projetos para meu próprio desenvolvimento. Com formação em Ciência da Computação em andamento, busco me desafiar e procuro oportunidades mercado de trabalho.
